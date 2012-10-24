@@ -1,3 +1,3 @@
 #!/bin/bash
-/usr/local/bin/mplayer2 -really-quiet $(/usr/local/bin/youtube-dl -g $(pbpaste))
+/usr/local/bin/mplayer2 -really-quiet --title="Youtube" $(/usr/local/bin/youtube-dl -g $(pbpaste))
 
