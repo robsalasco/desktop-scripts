@@ -1,0 +1,2 @@
+#!/bin/bash
+/Applications/MPlayer.app/Contents/MacOS/mplayer2 --use-filename-title "$@"
