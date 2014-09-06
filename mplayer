@@ -1,2 +1,0 @@
-#!/bin/bash
-/usr/local/bin/mplayer2 --use-filename-title "$@"
